@@ -1,0 +1,23 @@
+{
+  "name": "paysafecard-payout",
+  "version": "0.1.0",
+  "description": "",
+  "main": "paysafecard-payout.js",
+  "scripts": {
+    "test": "node ./examples/advanced-example.js"
+  },
+  "author": "websix GmbH",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "request": "^2.72.0"
+  },
+  "devDependencies": {
+    "node-uuid": "^1.4.7",
+    "readline-sync": "^1.4.4"
+  },
+  "jshintConfig": {
+    "esversion": 6,
+    "node": true
+  },
+  "private": true
+}
